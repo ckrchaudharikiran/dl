@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch  # For PyTorch, it's often referred to as 'torch'
+scipy
+
+
+#pip install -r requirements.txt
